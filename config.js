@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Beta",
-    introTitle: 'gửi tới Nguyễn Thị Kim tuyền ',
+    introTitle: 'Hi Cậu',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
