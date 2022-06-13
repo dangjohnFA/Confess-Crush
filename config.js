@@ -1,20 +1,17 @@
 const CONFIG = {
     titleWeb: "Beta",
     introTitle: 'Hi Cậu',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    introDesc: 'Suỵt! Có chuyện này tớ muốn hỏi cậu, trả lời thật lòng nha!',
+    btnIntro: '^^Được thôi HiHi^^',
+    title: 'Thực ra cậu có thích tớ ko ? :)) (Nếu cậu thoát đồng nghĩa vs việc chấp nhận lm ny tớ r ak!)',
+    desc: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰 ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao cậu lại yêu tớ <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    reply: 'Tại vì cậu tốt bụng và đzai, từng đó đã khiến tớ đổ cậu r! <33',
+    mess: 'Tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
+    messDesc: 'Còn chần chờ j mà ko inbox ngay cho tớ nhỉ!',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.facebook.com/profile.php?id=100076759983495'
 }
