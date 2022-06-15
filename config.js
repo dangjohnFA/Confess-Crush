@@ -2,8 +2,7 @@ const CONFIG = {
     titleWeb: "Beta",
     introTitle: 'Hi Cậu',
     introDesc: 'Suỵt! Có chuyện này tớ muốn hỏi cậu, trả lời thật lòng nha!',
-    btnIntro: '^^Được thôi HiHi^^',
-    audio: 'https://youtu.be/0HUvbKT07nY'    
+    btnIntro: '^^Được thôi HiHi^^', 
     title: 'Thực ra cậu có thích tớ ko ?',
     desc:'(Nếu cậu thoát đồng nghĩa vs việc chấp nhận lm ny tớ r ak!)',
     btnYes: 'Thích lắm <33',
